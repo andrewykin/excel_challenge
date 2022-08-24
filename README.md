@@ -23,10 +23,10 @@ An incomplete dataset could be a possible challenge, it would skew the statistic
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  -Theater projects on Kickstarter were most successful between April and August with a peak in May. November and December were the least successful months for Theater projects.
+  - Theater projects on Kickstarter were most successful between April and August with a peak in May. November and December were the least successful months for Theater projects.
 - What can you conclude about the Outcomes based on Goals?
-  -The most successful outcomes based on goal $ value amounts were $0 to $4,999 and $35,000 to $44,999. The least successful outcomes based on goal $ value were $25,000 to $29,999 and $45,000 to $49,999.
+  - The most successful outcomes based on goal $ value amounts were $0 to $4,999 and $35,000 to $44,999. The least successful outcomes based on goal $ value were $25,000 to $29,999 and $45,000 to $49,999.
 - What are some limitations of this dataset?
-  -
+  - Unsure
 - What are some other possible tables and/or graphs that we could create?
-  -We could create pivot tables and graphs of the success of other Theater subcategories like musicals and spaces to compare to plays.
+  - We could create pivot tables and graphs of the success of other Theater subcategories like musicals and spaces to compare to plays.
